@@ -1,0 +1,15 @@
+body{
+font-family: Helvetica, Sans-Serif;
+}
+input{
+  -moz-border-radius: 3px;
+ border-radius: 3px;
+    border:solid 1px black;
+    padding:3px;
+}
+select{
+  -moz-border-radius: 3px;
+ border-radius: 3px;
+    border:solid 1px black;
+    padding:3px;
+}

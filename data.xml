@@ -1,0 +1,175 @@
+<?xml version="1.0" ?> 
+<dataFields>
+    <items id="gender">
+        <item></item> 
+		<item>Male</item>
+		<item>Female</item>
+    </items>
+	<items id="pjForm">
+		<item></item>
+		<item>PJ Referral form</item>
+		<item>Family Interview</item>
+		<item>Communication record</item>
+		<item>Consent To Release</item>
+		<item>Consent to Obtain</item>
+		<item>Declaration</item>
+		<item>NCNS Personal Consent Form</item>
+		<item>NCNS  Consent Form</item>
+	</items>
+	<items id="nscForm">
+		<item></item>
+		<item>Consent To Release</item>
+		<item>Consent to Obtain</item>
+		<item>Declaration</item>
+		<item>NCNS Personal Consent Form</item>
+		<item>NCNS Consent Form</item>
+	</items>
+    <items id="age">
+        <item></item> 
+		<item>0--3 yrs</item>
+		<item>3--6 yrs</item>
+		<item>7--16 yrs</item> 
+		<item>17--25 yrs</item>
+		<item>26--40 yrs</item>
+		<item>41--65 yrs</item> 
+		<item>65+ yrs</item>
+		<item>Pregnant</item>
+    </items>
+	 <items id="program">
+		<item>Native Social Counselling Agency</item> 
+		<item>Parenting Journey</item>
+		<item>Pre-natal</item> 
+		<item>CHIP</item>
+		<item>Youth Outreach</item>
+    </items>
+	<items id="referral">
+        <item></item> 
+		<item>Self</item>
+		<item>Community Services</item>
+		<item>Family Doctor</item>
+		<item>Community Service Provider</item>
+		<item>Public Health</item>
+		<item>School</item>
+		<item>Mental Health</item>
+		<item>NCNS</item>
+		<item>Aboriginal group\Transition</item>
+    </items>
+	<items id="contact">
+		<item></item>
+		<item>Home Visit</item> 
+		<item>Phone, Text Message</item> 
+		<item>Office</item> 
+		<item>Email, Letter</item> 
+		<item>Accompanied appointment</item> 
+		<item>Collaborative mtg w family</item> 
+		<item>Collaborative mtg w/o family</item> 
+		<item>Legal</item> 
+		<item>Other</item> 
+	</items>
+	<items id="zone">
+		<item>Zone #1 Colchester, Cumberland, Pictou</item>
+		<item>Zone #2 Hants County</item>
+		<item>Zone #3 Halifax</item>
+		<item>Zone #4 Annapolis, Digby</item>
+		<item>Zone #5 Lunenburg</item>
+		<item>Zone #6 Cape Breton</item>
+		<item>Zone #7 Antigonish, Inverness,Richmond, Guysborough</item>
+		<item>Zone #8 Yarmouth, Shelburne</item>
+		<item>Zone #9 Queens County</item>
+		<item>Zone #10 Kings County</item>
+		<item>Zone #11 Sheet Harbour</item>
+		<item>Zone #12 Dartmouth</item>
+	</items>
+	<items id="waitlist">
+		<item></item>
+		<item>Yes</item>
+		<item>No</item>
+	</items>
+	<items id="concern">
+		<item></item> 
+		<item>Housing</item>
+		<item>Diabetes</item>
+		<item>Human Rights</item>
+		<item>Family Benefits</item>
+		<item>Prenatal/Post Natal</item>
+		<item>Education</item>
+		<item>Medical Service</item>
+		<item>Child Abuse/Neglect</item>
+		<item>Employment</item>
+		<item>Alcohol/Drug</item>
+		<item>Parenting</item>
+		<item>Emergency Shelter</item>
+		<item>Emergency Food</item>
+		<item>Spousal Abuse</item>
+		<item>Transportation</item>
+		<item>Health Concern</item>
+		<item>Legal Issues</item>
+		<item>Income Assist.</item>
+		<item>Other</item>
+	</items>
+	<items id="support">
+		<item></item>
+		<item>W Professional</item>
+		<item>W Group Consultation</item>
+		<item>W Legal/Court</item>
+		<item>Other</item>
+	</items>
+	<items id="referralOutside">
+		<item></item> 
+		<item>Mental Health</item>
+		<item>Addictions</item>
+		<item>Food Bank</item>
+		<item>Community Services</item>
+		<item>Family Resource Center</item>
+		<item>NSC</item>
+		<item>Other</item>
+	</items>
+	<items id="level">	
+		<item></item> 
+		<item>Level #1</item> 
+		<item>Level #2</item> 
+		<item>Level #3</item> 
+	</items>
+	<items id="marital">
+		<item></item> 	
+		<item>Single</item> 
+		<item>Married</item> 
+		<item>Common-law</item> 
+		<item>Divorce</item> 
+		<item>Widowed</item> 
+	</items>	
+	<items id="ending">
+		<item></item> 	
+		<item>No contact</item> 
+		<item>No longer Eligible</item> 
+		<item>Relocation</item>
+		<item>Service No longer Requested</item> 
+		<item>Other</item> 
+	</items>
+	<items id="contactNature">
+		<item></item> 
+		<item>Child/Youth Development</item> 
+		<item>Attachment</item> 
+		<item>Parenting</item> 
+		<item>Family Life Management</item> 
+		<item>Family Wellness/Relationships</item> 
+		<item>Social Community Networks</item> 
+		<item>Legal</item> 
+		<item>Other</item> 
+	</items>
+	<items id="reReferrals">
+		<item>0</item> 
+		<item>1</item> 
+		<item>2</item> 
+		<item>3</item> 
+		<item>4</item> 
+		<item>5</item> 
+		<item>6</item> 
+		<item>7</item> 
+		<item>8</item> 
+		<item>9</item> 
+		<item>10</item> 
+		<item>11</item> 
+		<item>12</item> 
+	</items>
+</dataFields>
